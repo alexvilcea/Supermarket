@@ -1,0 +1,4 @@
+ShoppingCart{Item{name='Me before you', id=400.0, price=50.0}Item{name='Jungle book', id=401.0, price=25.0} budget=28.75}
+75.0
+[Customer{name='Andrei'}]
+[Notification{date=Wed Jan 09 20:07:37 EET 2019, depID=4.0, itemID=401.0, type=MODIFY}]

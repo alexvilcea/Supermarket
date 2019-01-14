@@ -1,0 +1,19 @@
+Carrefour
+BookDepartment;1
+3
+Amintiri din copilarie;100;50.0
+Solenoid;101;50.0
+Ochii jupanitei;102;5.0
+MusicDepartment;2
+2
+Andrea Bocelli-Passione;200;200.0
+George Enescu - Octet in C major;201;100.0
+SoftwareDepartment;3
+2
+Microsoft Office 365 Personal;300;300.0
+FacturarePRO Standard;301;150.00
+VideoDepartment;4
+3
+Me before you;400;50.00
+Jungle book;401;100.00
+The martian;402;75.00

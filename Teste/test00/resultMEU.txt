@@ -1,0 +1,12 @@
+[name='Enigma Otiliei', id=104.0, price=10.53][name='Andrea Bocelli-Passione', id=200.0, price=37.99][name='Hugo', id=403.0, price=39.9]
+[name='Enigma Otiliei', id=104.0, price=10.53][name='Andrea Bocelli-Passione', id=200.0, price=37.99][name='Hugo', id=403.0, price=39.9]
+ShoppingCart{null budget=500.0}
+50.0
+50.0
+72.92
+[name='Enigma Otiliei', id=104.0, price=10.53][name='Andrea Bocelli-Passione', id=200.0, price=37.99][name='Hugo', id=403.0, price=39.9]
+[Customer{name='Mihai'}]
+[Customer{name='Mihai'}]
+[]
+[Customer{name='Mihai'}]
+[Notification{date=Wed Jan 09 20:49:42 EET 2019, depID=1.0, itemID=111.0, type=ADD}, Notification{date=Wed Jan 09 20:49:42 EET 2019, depID=1.0, itemID=112.0, type=ADD}, Notification{date=Wed Jan 09 20:49:42 EET 2019, depID=4.0, itemID=404.0, type=ADD}, Notification{date=Wed Jan 09 20:49:42 EET 2019, depID=4.0, itemID=404.0, type=REMOVE}]

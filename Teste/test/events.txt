@@ -1,0 +1,7 @@
+5
+addItem;400;WishList;Andrei
+addItem;401;WishList;Andrei
+addItem;402;WishList;Andrei
+modifyProduct;4;401;25
+getItems;WishList;Andrei
+
